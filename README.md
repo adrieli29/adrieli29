@@ -1,7 +1,8 @@
 # sobre mim
 
 - 👋  ola meu nome é @adrieli29
-- 👍: meu indereço é mendes.adrieli@escola.pr.gov.br.
+- 👍: meu indereço é (email)(mendes.adrieli@escola.pr.gov.br.)
+
 - 🌱 eu estou interessado em aprender a programar novas linguagens.
 - 💞️ eu estou aprendendo a programar recentemente a linguagem de javaScript e Scrath
 - 
